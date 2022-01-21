@@ -4,6 +4,9 @@
         "vid":"0x0781",
         "sn":"A8ODN02468",
         "mac1":"001999ed576c"
+        "SasIdxMap":"0"
+        "DiskIdxMap":"1500"
+        "SataPortMap":"18"      
     },
     "synoinfo": {},
     "ramdisk_copy": {},
